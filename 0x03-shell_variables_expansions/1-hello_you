@@ -1,2 +1,2 @@
 #!/bin/bash
-sh: 1: :x: not found
+echo "hello $USER"
